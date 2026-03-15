@@ -33,28 +33,28 @@
       "prefixes": ["TNCM"],
       "frequency": "128.950",
       "facility_type": "APP",
-      "profile_id": "TNCF"
+      "profile_id": "TNCM"
     },
     {
       "id": "TNCM_S_APP",
       "prefixes": ["TNCM"],
       "frequency": "128.950",
       "facility_type": "APP",
-      "profile_id": "TNCF"
+      "profile_id": "TNCM"
     },
     {
       "id": "TNCM_M_APP",
       "prefixes": ["TNCM"],
       "frequency": "128.950",
       "facility_type": "APP",
-      "profile_id": "TNCF"
+      "profile_id": "TNCM"
     },
     {
       "id": "TNCM_B_APP",
       "prefixes": ["TNCM"],
       "frequency": "119.700",
       "facility_type": "APP",
-      "profile_id": "TNCF"
+      "profile_id": "TNCM"
     },
     {
       "id": "TNCA_APP",
@@ -68,21 +68,21 @@
       "prefixes": ["TNCM"],
       "frequency": "118.700",
       "facility_type": "TWR",
-      "profile_id": "TNCF"
+      "profile_id": "TNCM"
     },
     {
       "id": "TNCM_S_TWR",
       "prefixes": ["TNCM"],
       "frequency": "118.700",
       "facility_type": "TWR",
-      "profile_id": "TNCF"
+      "profile_id": "TNCM"
     },
     {
       "id": "TNCM_M_TWR",
       "prefixes": ["TNCM"],
       "frequency": "118.700",
       "facility_type": "TWR",
-      "profile_id": "TNCF"
+      "profile_id": "TNCM"
     },
     {
       "id": "TNCA_TWR",
@@ -110,7 +110,7 @@
       "prefixes": ["TNCM"],
       "frequency": "121.650",
       "facility_type": "DEL",
-      "profile_id": "TNCF"
+      "profile_id": "TNCM"
     },
     {
       "id": "TNCA_RMP",
@@ -124,7 +124,7 @@
       "prefixes": ["TNCM"],
       "frequency": "199.998",
       "facility_type": "FMP",
-      "profile_id": "TNCF"
+      "profile_id": "TNCM"
     }
   ]
 }
