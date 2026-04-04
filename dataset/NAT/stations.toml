@@ -1,0 +1,117 @@
+[[stations]]
+id = "Gander"
+parent_id = "NAT_BBx"
+controlled_by = ["CZQO_CTR"]
+
+[[stations]]
+id = "Gander_A"
+controlled_by = ["CZQO_A_CTR"]
+
+[[stations]]
+id = "Gander_B"
+controlled_by = ["CZQO_B_CTR"]
+
+[[stations]]
+id = "Gander_C"
+controlled_by = ["CZQO_C_CTR"]
+
+[[stations]]
+id = "Gander_D"
+controlled_by = ["CZQO_D_CTR"]
+
+[[stations]]
+id = "Gander_F"
+controlled_by = ["CZQO_F_CTR"]
+
+[[stations]]
+id = "Gander_G"
+controlled_by = ["CZQO_G_CTR"]
+
+[[stations]]
+id = "Gander_DEL"
+parent_id = "Gander"
+controlled_by = ["CZQO_DEL"]
+
+[[stations]]
+id = "Gander_DEL_A"
+parent_id = "Gander_A"
+controlled_by = ["CZQO_A_DEL"]
+
+[[stations]]
+id = "Gander_DEL_B"
+parent_id = "Gander_B"
+controlled_by = ["CZQO_B_DEL"]
+
+[[stations]]
+id = "Gander_DEL_C"
+parent_id = "Gander_C"
+controlled_by = ["CZQO_C_DEL"]
+
+[[stations]]
+id = "Gander_DEL_D"
+parent_id = "Gander_D"
+controlled_by = ["CZQO_D_DEL"]
+
+[[stations]]
+id = "Gander_DEL_F"
+parent_id = "Gander_F"
+controlled_by = ["CZQO_F_DEL"]
+
+[[stations]]
+id = "Shanwick"
+parent_id = "NAT_BBx"
+controlled_by = ["EGGX_CTR"]
+
+[[stations]]
+id = "Shanwick_A"
+controlled_by = ["EGGX_A_CTR", "EGGX_1_CTR"]
+
+[[stations]]
+id = "Shanwick_B"
+controlled_by = ["EGGX_B_CTR", "EGGX_2_CTR"]
+
+[[stations]]
+id = "Shanwick_C"
+controlled_by = ["EGGX_C_CTR", "EGGX_3_CTR"]
+
+[[stations]]
+id = "Shanwick_D"
+controlled_by = ["EGGX_D_CTR", "EGGX_4_CTR"]
+
+[[stations]]
+id = "Shanwick_F"
+controlled_by = ["EGGX_F_CTR", "EGGX_5_CTR"]
+
+[[stations]]
+id = "Shanwick_DEL"
+parent_id = "Shanwick"
+controlled_by = ["EGGX_DEL"]
+
+[[stations]]
+id = "Shanwick_DEL_A"
+parent_id = "Shanwick_A"
+controlled_by = ["EGGX_A_DEL", "EGGX_1_DEL"]
+
+[[stations]]
+id = "Shanwick_DEL_B"
+parent_id = "Shanwick_B"
+controlled_by = ["EGGX_B_DEL", "EGGX_2_DEL"]
+
+[[stations]]
+id = "Shanwick_DEL_C"
+parent_id = "Shanwick_C"
+controlled_by = ["EGGX_C_DEL", "EGGX_3_DEL"]
+
+[[stations]]
+id = "Shanwick_DEL_D"
+parent_id = "Shanwick_D"
+controlled_by = ["EGGX_D_DEL", "EGGX_4_DEL"]
+
+[[stations]]
+id = "Shanwick_DEL_F"
+parent_id = "Shanwick_F"
+controlled_by = ["EGGX_F_DEL", "EGGX_5_DEL"]
+
+[[stations]]
+id = "NAT_BBx"
+controlled_by = ["NAT_FSS"]
