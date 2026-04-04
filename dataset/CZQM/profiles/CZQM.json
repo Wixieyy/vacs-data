@@ -182,39 +182,20 @@
                         "label": ""
                       },
                       {
-                        "label": ["QM", "1"],
-                        "station_id": "CZQM-1-CTR"
-                      },
-                      {
-                        "label": ["QM", "2"],
-                        "station_id": "CZQM-2-CTR"
+                        "label": ["QM", "4"],
+                        "station_id": "CZQM-4-CTR"
                       },
                       {
                         "label": ["QM", "3"],
                         "station_id": "CZQM-3-CTR"
                       },
                       {
-                        "label": ["QM", "4"],
-                        "station_id": "CZQM-4-CTR"
+                        "label": ["QM", "2"],
+                        "station_id": "CZQM-2-CTR"
                       },
                       {
-                        "label": ""
-                      },
-                      {
-                        "label": ["QM", "5"],
-                        "station_id": "CZQM-5-CTR"
-                      },
-                      {
-                        "label": ["QM", "6"],
-                        "station_id": "CZQM-6-CTR"
-                      },
-                      {
-                        "label": ["QM", "7"],
-                        "station_id": "CZQM-7-CTR"
-                      },
-                      {
-                        "label": ["QM", "8"],
-                        "station_id": "CZQM-8-CTR"
+                        "label": ["QM", "1"],
+                        "station_id": "CZQM-1-CTR"
                       },
                       {
                         "label": ""
@@ -365,41 +346,24 @@
                         "label": ""
                       },
                       {
-                        "label": ["QX", "1"],
-                        "station_id": "CZQX-1-CTR"
-                      },
-                      {
-                        "label": ["QX", "2"],
-                        "station_id": "CZQX-2-CTR"
-                      },
-                      {
-                        "label": ["QX", "3"],
-                        "station_id": "CZQX-3-CTR"
+                        "label": ["QX", "5"],
+                        "station_id": "CZQX-5-CTR"
                       },
                       {
                         "label": ["QX", "4"],
                         "station_id": "CZQX-4-CTR"
                       },
                       {
-                        "label": ""
+                        "label": ["QX", "3"],
+                        "station_id": "CZQX-3-CTR"
                       },
                       {
-                        "label": ["QX", "5"],
-                        "station_id": "CZQX-5-CTR"
+                        "label": ["QX", "2"],
+                        "station_id": "CZQX-2-CTR"
                       },
                       {
-                        "label": ["QX", "6"],
-                        "station_id": "CZQX-6-CTR"
-                      },
-                      {
-                        "label": ["QX", "7"],
-                        "station_id": "CZQX-7-CTR"
-                      },
-                      {
-                        "label": ""
-                      },
-                      {
-                        "label": ""
+                        "label": ["QX", "1"],
+                        "station_id": "CZQX-1-CTR"
                       }
                     ]
                   }
