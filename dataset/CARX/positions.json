@@ -9,6 +9,22 @@
       "default_call_sources": ["CARI_FSS"]
     },
     {
+      "id": "CARI_S_FSS",
+      "prefixes": ["CARI"],
+      "frequency": "131.300",
+      "facility_type": "FSS",
+      "profile_id": "CAR",
+      "default_call_sources": ["CARI_FSS"]
+    },
+    {
+      "id": "CARI_M_FSS",
+      "prefixes": ["CARI"],
+      "frequency": "131.300",
+      "facility_type": "FSS",
+      "profile_id": "CAR",
+      "default_call_sources": ["CARI_FSS"]
+    },
+    {
       "id": "CARE_FSS",
       "prefixes": ["CARE"],
       "frequency": "131.500",
