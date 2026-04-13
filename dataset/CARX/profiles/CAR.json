@@ -262,15 +262,28 @@
           "page": {
             "rows": 6,
             "client_page": {
-              "include": ["MUFH*", "MTEG*_CTR", "MT*_APP", "MDCS*", "MD*_APP", "SJU_*_CTR", "SJU_*_APP", "MKJK*", "MWCR*_APP", "TNCF*", "TBPB*_APP", "TFFR*_APP", "TAPA*_APP", "SKED*", "SKEC*", "SVZM*", "CAR*", "ANT*", "ZMO*"],
-              "priority": [
-                "*_FMP",
-                "*_CTR",
-                "*_APP",
-                "*_TWR",
-                "*_GND",
-                "*_DEL"
-              ]
+              "include": [
+                "MUFH*",
+                "MTEG*_CTR",
+                "MT*_APP",
+                "MDCS*",
+                "MD*_APP",
+                "SJU_*_CTR",
+                "SJU_*_APP",
+                "MKJK*",
+                "MWCR*_APP",
+                "TNCF*",
+                "TBPB*_APP",
+                "TFFR*_APP",
+                "TAPA*_APP",
+                "SKED*",
+                "SKEC*",
+                "SVZM*",
+                "CAR*",
+                "ANT*",
+                "ZMO*"
+              ],
+              "priority": ["*_FMP", "*_CTR", "*_APP", "*_TWR", "*_GND", "*_DEL"]
             }
           }
         }
