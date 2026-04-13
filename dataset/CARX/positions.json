@@ -1,0 +1,25 @@
+{
+  "positions": [
+    {
+      "id": "CARI_FSS",
+      "prefixes": ["CARI"],
+      "frequency": "131.300",
+      "facility_type": "FSS",
+      "profile_id": "CAR"
+    },
+    {
+      "id": "CARE_FSS",
+      "prefixes": ["CARE"],
+      "frequency": "131.500",
+      "facility_type": "FSS",
+      "profile_id": "CAR"
+    },
+    {
+      "id": "CARW_FSS",
+      "prefixes": ["CARW"],
+      "frequency": "131.700",
+      "facility_type": "FSS",
+      "profile_id": "CAR"
+    }
+  ]
+}
